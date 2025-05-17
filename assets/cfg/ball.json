@@ -1,0 +1,5 @@
+{
+    "image": "assets/img/ball_grey.png",
+    "follow_force": 125,
+    "avoid_force": 100
+}
